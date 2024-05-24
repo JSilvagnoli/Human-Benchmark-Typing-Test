@@ -28,17 +28,20 @@ Ensure that you download the ChromeDriver for your version of Chrome.
 5. Install Selenium using pip
    ```sh
    pip install selenium
+   ```
 6. Go To:
   ```sh
   https://github.com/tesseract-ocr/tesseract
+   ```
 7. Follow the instructions on the GitHub repository to download Tesseract.
 8. Install PyTesseract using pip:
    ```sh
   pip install pytesseract
+     ```
 10. Install PyAutoGUI using pip:
    ```sh
    pip install pyautogui
-   
+   ```
 ## Usage
 1. Run typingTestAutomation.py
 
