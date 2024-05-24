@@ -21,7 +21,7 @@ This application breaks the Human Benchmark Typing Test by using Python, Seleniu
    cd Human-Benchmark-Typing-Test
 3. Go to:
   ```
-  https://developer.chrome.com/docs/chromedriver/downloads
+https://developer.chrome.com/docs/chromedriver/downloads
    ```
 
 4. Click on "the Chrome for Testing availability dashboard".
