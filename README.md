@@ -22,13 +22,14 @@ This application breaks the Human Benchmark Typing Test by using Python, Seleniu
 3. Go to:
   ```sh
   https://developer.chrome.com/docs/chromedriver/downloads
+
 4. Click on "the Chrome for Testing availability dashboard".
 This will take you to download the most up to date ChromeDriver.
 Ensure that you download the ChromeDriver for your version of Chrome.
+
 5. Install Selenium using pip
    ```sh
    pip install selenium
-   ```
 6. Go To:
   ```sh
   https://github.com/tesseract-ocr/tesseract
