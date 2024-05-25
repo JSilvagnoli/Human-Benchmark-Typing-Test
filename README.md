@@ -14,11 +14,11 @@ This application breaks the Human Benchmark Typing Test by using Python, Seleniu
 
 ## Installation
 1. Clone the repository to your local machine:
-```sh
-git clone https://github.com/JSilvagnoli/Human-Benchmark-Typing-Test.git
+   ```sh
+   git clone https://github.com/JSilvagnoli/Human-Benchmark-Typing-Test.git
 2. Navigate to the project directory
-```sh
-cd Human-Benchmark-Typing-Test
+   ```sh
+   cd Human-Benchmark-Typing-Test
 3. Go to:
    [Chrome for Developers](https://developer.chrome.com/docs/chromedriver/downloads)
 
