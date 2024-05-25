@@ -22,7 +22,6 @@ This application breaks the Human Benchmark Typing Test by using Python, Seleniu
 3. Go to:
   ```
 https://developer.chrome.com/docs/chromedriver/downloads
-   ```
 
 4. Click on "the Chrome for Testing availability dashboard".
 This will take you to download the most up to date ChromeDriver.
@@ -39,13 +38,12 @@ Ensure that you download the ChromeDriver for your version of Chrome.
 7. Follow the instructions on the GitHub repository to download Tesseract.
 8. Install PyTesseract using pip:
    ```
-  pip install pytesseract
+   pip install pytesseract
    ```
 
 10. Install PyAutoGUI using pip:
    ```
    pip install pyautogui
-   ```
 
 ## Usage
 1. Run typingTestAutomation.py
