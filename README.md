@@ -4,7 +4,7 @@
 This application breaks the Human Benchmark Typing Test by using Python, Selenium, Tesseract, and PyAutoGUI
 
 ## Features
-- Reache upwards of 15,000 words typed per minute placing you in the 99.9% percentile on the Human Benchmark Typing Test
+- Reach upwards of 15,000 words typed per minute placing you in the 99.9% percentile on the Human Benchmark Typing Test
 
 ## Technologies Used
 - Python
